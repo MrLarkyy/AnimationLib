@@ -1,6 +1,6 @@
-package xyz.larkyy.animationlib.animationlib;
+package xyz.larkyy.animationlib.animationlib.animation;
 
-import xyz.larkyy.timelinelib.timelinelib.Timeline;
+import xyz.larkyy.animationlib.animationlib.timeline.Timeline;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package xyz.larkyy.animationlib.animationlib;
+package xyz.larkyy.animationlib.animationlib.animation;
 
 public enum LoopMode {
 
